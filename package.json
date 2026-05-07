@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "node server/src/index.js",
+    "postinstall": "npm --prefix server ci"
   },
   "dependencies": {
     "canvas-confetti": "^1.9.4",
