@@ -1,0 +1,1038 @@
+{
+  "exam": {
+    "slug": "itil4-foundation-v3",
+    "title": "Simulador ITIL 4 Foundation — Examen 003",
+    "description": "38 preguntas · 60 min · 32 aciertos para aprobar (~84%) · \"a libro cerrado\"",
+    "total_questions": 38,
+    "pass_threshold_pct": 84,
+    "time_limit_minutes": 60
+  },
+  "questions": [
+    {
+      "position": 1,
+      "statement": "¿Cómo se deberían combinar los siete principios guía cuando la organización está tomando una decisión?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Se deberían usar todos los principios guía en igual medida cuando se toma cualquier decisión.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Se deberían usar uno o dos principios guías que sean los más relevantes para la decisión específica.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Se debería usar el principio guía “enfocarse en el valor” y uno o dos de los otros principios que sean relevantes para la decisión.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se debería revisar cada principio guía para decidir qué tan relevante es con respecto a la decisión específica.",
+          "is_correct": false
+        }
+      ],
+      "justification": "Los siete principios guía de ITIL 4 son enfoques generales que se aplican a la gestión de servicios. Cada principio guía tiene su propio propósito y puede ser más o menos relevante según la situación y la decisión que se esté tomando. No todos los principios guía son igualmente aplicables en todas las situaciones.\n\nCuando una organización está tomando una decisión, no es necesario aplicar todos los principios guía en igual medida. En cambio, se debe identificar uno o dos principios que sean los más relevantes para la decisión específica en cuestión. Esto implica evaluar la situación, comprender los principios guía y seleccionar aquellos que proporcionen la orientación más adecuada para abordar la decisión en particular.\n\nLa opción B es la respuesta correcta, ya que refleja esta idea al indicar que se deben usar uno o dos principios guía que sean los más relevantes para la decisión específica. Esto permite una aplicación más enfocada y adaptada a las necesidades y circunstancias de la organización en ese momento."
+    },
+    {
+      "position": 2,
+      "statement": "¿Qué es un cambio estándar?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Un cambio que se comprende adecuadamente, se documenta por completo y cuenta con autorización previa.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un cambio que necesita ser evaluado, autorizado y programado por una autoridad de cambios.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un cambio que no necesita una evaluación de riesgos porque se requiere para resolver un incidente.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un cambio que se evalúa, autoriza y programa como parte de la mejora continua.",
+          "is_correct": false
+        }
+      ],
+      "justification": "Un cambio estándar se refiere a un tipo de cambio que es predefinido, bien entendido y de bajo riesgo, y que ha sido autorizado previamente para su implementación. La opción A describe correctamente las características de un cambio estándar.\n\nEn un cambio estándar, se comprende adecuadamente el alcance y los requisitos del cambio, se documenta de manera completa y se cuenta con una autorización previa antes de su implementación. Esto permite que el cambio sea gestionado de manera eficiente y efectiva, ya que se han establecido procedimientos y controles claros para su ejecución.\n\nLas opciones B, C y D no definen adecuadamente lo que es un cambio estándar. La opción B se refiere más a un cambio normal que necesita ser evaluado y autorizado por una autoridad de cambios. La opción C se relaciona con un cambio de emergencia para resolver un incidente y la opción D menciona la mejora continua en general, sin especificar las características de un cambio estándar.\n\nPor lo tanto, la opción A es la respuesta correcta, ya que describe con precisión lo que es un cambio estándar."
+    },
+    {
+      "position": 3,
+      "statement": "¿Qué opción describe un enfoque CORRECTO para autorización de cambios?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Los cambios incluidos en el calendario de cambios cuentan con autorización previa y no necesitan autorización adicional.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Los cambios normales se deberían evaluar y autorizar antes de su implementación.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Los cambios de emergencia deberían ser autorizados por tantas personas como sea posible para reducir el riesgo.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Los cambios normales suelen implementarse como solicitudes de servicio, con autorización de la mesa de servicios.",
+          "is_correct": false
+        }
+      ],
+      "justification": "Para asegurar un enfoque correcto para la autorización de cambios, es necesario evaluar y autorizar los cambios normales antes de su implementación. Los cambios normales son aquellos que han sido previamente evaluados y se considera que tienen un nivel de riesgo controlado.\n\nLa opción A menciona que los cambios incluidos en el calendario de cambios ya tienen autorización previa y no necesitan autorización adicional. Esto puede ser cierto en el caso de cambios estándar o cambios preaprobados, pero no necesariamente abarca todos los tipos de cambios.\n\nLa opción C, que sugiere que los cambios de emergencia deben ser autorizados por tantas personas como sea posible para reducir el riesgo, no es el enfoque adecuado. Los cambios de emergencia deben ser autorizados por las personas adecuadas y de manera ágil, pero involucrar a un gran número de personas puede retrasar la toma de decisiones y la implementación de acciones urgentes.\n\nLa opción D menciona que los cambios normales se implementan como solicitudes de servicio y se autorizan por la mesa de servicios. Aunque la mesa de servicios puede participar en la autorización de cambios, la evaluación y autorización de cambios normales generalmente involucra a un grupo más amplio de personas, como el comité de cambios o la autoridad de cambios."
+    },
+    {
+      "position": 4,
+      "statement": "Por lo tanto, la opción B es la respuesta correcta, ya que establece que los cambios normales deben ser evaluados y autorizados antes de su implementación para garantizar un enfoque adecuado en la autorización de cambios. ¿Cuál es el uso PRINCIPAL de un calendario de cambios?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Ayudar a planear, autorizar y programar los cambios de emergencia.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Publicar una lista de solicitudes de servicio que los usuarios puedan seleccionar.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Asegurar que una única autoridad de cambios revise cada cambio.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ayudar a planear cambios, respaldar la comunicación y evitar conflictos.",
+          "is_correct": true
+        }
+      ],
+      "justification": "El uso principal de un calendario de cambios es ayudar a planificar los cambios, respaldar la comunicación y evitar conflictos en la implementación de los cambios. Un calendario de cambios proporciona una vista consolidada de todos los cambios programados, lo que permite una planificación efectiva, coordinación y asignación adecuada de recursos.\n\nLa opción A, que menciona que el calendario de cambios ayuda a planificar, autorizar y programar los cambios de emergencia, no es correcta. Los cambios de emergencia generalmente requieren una respuesta rápida y no se programan en un calendario de cambios normal. Se gestionan de manera separada y se implementan lo antes posible para resolver situaciones críticas.\n\nLa opción B, que sugiere que el calendario de cambios publica una lista de solicitudes de servicio para que los usuarios las seleccionen, no es precisa. Si bien el calendario de cambios puede mostrar información relacionada con los cambios de servicio, su función principal no es servir como una lista de solicitudes de servicio para los usuarios.\n\nLa opción C, que indica que el calendario de cambios asegura que una única autoridad de cambios revise cada cambio, no es correcta. Si bien el calendario de cambios puede proporcionar visibilidad a la autoridad de cambios, su objetivo principal no es limitarse a una sola autoridad revisando los cambios, sino facilitar la planificación y coordinación de los cambios en general.\n\nPor lo tanto, la opción D es la respuesta correcta, ya que refleja el uso principal de un calendario de cambios en ITIL, que es ayudar a planificar los cambios, respaldar la comunicación y evitar conflictos durante su implementación."
+    },
+    {
+      "position": 5,
+      "statement": "¿Qué partes interesadas crean valor de manera conjunta en una relación de servicio?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "El inversionista y el proveedor.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El consumidor y el proveedor.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "El abastecedor y el proveedor.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "El inversionista y el consumidor.",
+          "is_correct": false
+        }
+      ],
+      "justification": "En una relación de servicio, el valor se crea de manera conjunta entre el consumidor y el proveedor. El consumidor es quien utiliza y se beneficia del servicio, mientras que el proveedor es quien proporciona y entrega el servicio. Ambas partes colaboran y trabajan juntas para garantizar que el servicio cumpla con las necesidades y expectativas del consumidor.\n\nLa opción A, que menciona al inversionista y al proveedor, no es correcta. Si bien el inversionista puede tener un interés financiero en el servicio, no participa directamente en la creación conjunta de valor en la relación de servicio.\n\nLa opción C, que menciona al abastecedor y al proveedor, tampoco es correcta. El abastecedor generalmente se refiere a una entidad que suministra bienes o componentes necesarios para la prestación del servicio, y no está directamente involucrado en la creación conjunta de valor con el consumidor.\n\nLa opción D, que menciona al inversionista y al consumidor, tampoco es correcta. Aunque el inversionista puede tener un interés financiero en el servicio y el consumidor obtiene beneficios del servicio, no trabajan directamente juntos en la creación conjunta de valor en la relación de servicio.\n\nPor lo tanto, la respuesta correcta es la opción B, ya que el consumidor y el proveedor son las partes interesadas que colaboran y crean valor de manera conjunta en una relación de servicio.\n\nTop of Form"
+    },
+    {
+      "position": 6,
+      "statement": "¿Qué puede ayudar a reducir la resistencia de una mejora planificada cuando se aplica el principio guía “colaborar y promover la visibilidad”?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Restringir la información sobre la mejora solo a las partes interesadas esenciales.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Incrementar la colaboración y la visibilidad de la mejora.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Involucrar a los clientes después de que se haya completado toda la planificación.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Involucrar a cada grupo de partes interesadas de la misma manera, con la misma comunicación.",
+          "is_correct": false
+        }
+      ],
+      "justification": "Cuando se aplica el principio guía \"colaborar y promover la visibilidad\", se busca fomentar la participación activa de todas las partes interesadas relevantes y garantizar una comunicación transparente y abierta. Esto ayuda a reducir la resistencia a una mejora planificada.\n\nLa opción A, que sugiere restringir la información sobre la mejora solo a las partes interesadas esenciales, no es coherente con el principio guía de promover la visibilidad. Limitar la información solo a un grupo selecto de partes interesadas podría generar desconfianza y resistencia por parte de aquellos que no están involucrados.\n\nLa opción C, que menciona involucrar a los clientes después de que se haya completado toda la planificación, no promueve la colaboración temprana ni la visibilidad de la mejora. Es importante involucrar a los clientes y otras partes interesadas desde las etapas iniciales de planificación y desarrollo de la mejora para obtener su retroalimentación y garantizar su aceptación.\n\nLa opción D, que sugiere involucrar a cada grupo de partes interesadas de la misma manera, con la misma comunicación, puede ser útil para garantizar una comunicación equitativa y justa, pero no aborda directamente el incremento de la colaboración y la visibilidad, que son aspectos clave del principio guía en cuestión.\n\nPor lo tanto, la respuesta correcta es la opción B, ya que incrementar la colaboración y la visibilidad de la mejora planificada es una forma efectiva de reducir la resistencia y promover una mayor aceptación y adopción por parte de las partes interesadas involucradas.\n\nTop of Form"
+    },
+    {
+      "position": 7,
+      "statement": "¿Qué es “utilidad”?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Funcionalidad de un servicio para satisfacer una necesidad particular.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Certeza de que un servicio cumplirá con los requerimientos acordados.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Cantidad de dinero que se gasta en una actividad o un recurso específico.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Utilidad, importancia y beneficios percibidos de algo.",
+          "is_correct": false
+        }
+      ],
+      "justification": "En el contexto de ITIL 4, la \"utilidad\" se refiere a la capacidad de un servicio para proporcionar funcionalidades que satisfagan las necesidades específicas de los usuarios. Se trata de la capacidad de un servicio para hacer algo útil y relevante para el logro de los objetivos y requerimientos del cliente.\n\nLa opción B, \"Certeza de que un servicio cumplirá con los requerimientos acordados\", no describe directamente la utilidad de un servicio, sino más bien se relaciona con la confianza en que el servicio cumplirá con los acuerdos establecidos en términos de rendimiento, disponibilidad, etc.\n\nLa opción C, \"Cantidad de dinero que se gasta en una actividad o un recurso específico\", se refiere al concepto de costo y no está directamente relacionada con la definición de utilidad en ITIL 4.\n\nLa opción D, \"Utilidad, importancia y beneficios percibidos de algo\", se acerca al concepto de utilidad, pero no captura completamente la idea de la funcionalidad de un servicio para satisfacer una necesidad particular.\n\nPor lo tanto, la respuesta correcta es la opción A, ya que refleja con mayor precisión el significado de la utilidad en el contexto de ITIL 4."
+    },
+    {
+      "position": 8,
+      "statement": "¿Cuál de estas actividades se llevan a cabo como parte de la gestión de problemas?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Creación de registros de incidentes.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Diagnóstico y resolución de incidentes.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Escalamiento de incidentes a un equipo de soporte para su resolución.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Análisis de tendencias de los registros de incidentes.",
+          "is_correct": true
+        }
+      ],
+      "justification": "La gestión de problemas en ITIL 4 implica identificar y abordar las causas subyacentes de los incidentes recurrentes o graves con el objetivo de prevenir su recurrencia en el futuro. Algunas de las actividades que se llevan a cabo como parte de la gestión de problemas incluyen:\n\nAnálisis de tendencias de los registros de incidentes: Esto implica examinar los registros de incidentes para identificar patrones, tendencias y causas subyacentes que puedan estar contribuyendo a la recurrencia de problemas. El análisis de tendencias ayuda a identificar áreas problemáticas y tomar acciones correctivas.\n\nLas otras opciones no son actividades directamente relacionadas con la gestión de problemas:\n\nCreación de registros de incidentes: Esta actividad está asociada con la gestión de incidentes, no con la gestión de problemas. Los registros de incidentes se crean cuando se reporta un evento no planificado o una interrupción en el servicio.\n\nDiagnóstico y resolución de incidentes: Esto también se refiere a la gestión de incidentes, que se centra en restaurar la operación normal del servicio lo más rápido posible. La gestión de problemas se ocupa de identificar las causas subyacentes de los incidentes recurrentes o graves.\n\nEscalamiento de incidentes a un equipo de soporte para su resolución: Esto es parte del flujo de gestión de incidentes y se refiere a la asignación de incidentes a equipos de soporte especializados para su resolución.\n\nPor lo tanto, la opción D es la respuesta correcta, ya que representa una actividad específica dentro del ámbito de la gestión de problemas."
+    },
+    {
+      "position": 9,
+      "statement": "¿Qué ayuda a diagnosticar y resolver un incidente sencillo?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Un escalamiento rápido.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La formación de un equipo temporal.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El uso de scripts.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La priorización del problema.",
+          "is_correct": false
+        }
+      ],
+      "justification": "Para diagnosticar y resolver un incidente sencillo de manera eficiente, el uso de scripts puede ser de gran ayuda. Los scripts son procedimientos predefinidos y detallados que contienen instrucciones paso a paso para abordar problemas comunes o incidentes conocidos. Al seguir los pasos del script, los técnicos pueden identificar y resolver rápidamente el incidente de manera sistemática, minimizando el tiempo de resolución y asegurando la consistencia en el proceso.\n\nLas otras opciones no son las mejores respuestas:\n\nUn escalamiento rápido: Si bien un escalamiento puede ser necesario en algunos casos de incidentes más complejos, para un incidente sencillo, un escalamiento rápido puede ser innecesario y solo agregaría una capa adicional de complejidad y tiempo al proceso de resolución.\n\nLa formación de un equipo temporal: Para un incidente sencillo, la formación de un equipo temporal puede no ser necesaria, ya que el incidente puede ser resuelto por un solo técnico o por el personal de soporte existente sin requerir la creación de un equipo adicional.\n\nLa priorización del problema: Si bien es importante priorizar los problemas y los incidentes según su impacto y urgencia, la priorización por sí sola no ayuda a diagnosticar y resolver un incidente sencillo. La priorización se enfoca en determinar la secuencia de atención y no en la resolución en sí misma.\n\nPor lo tanto, la opción C, el uso de scripts, es la respuesta más adecuada, ya que proporciona una guía estructurada para el diagnóstico y resolución de incidentes sencillos de manera eficiente."
+    },
+    {
+      "position": 10,
+      "statement": "¿Cuál de las siguientes opciones involucra el gobierno, las prácticas de gestión y la mejora continua?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "El sistema de valor del servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La actividad “entregar y soportar” de la cadena de valor.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "El principio guía “enfocarse en el valor”.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La dimensión de procesos y flujos de valor.",
+          "is_correct": true
+        }
+      ],
+      "justification": "La dimensión de procesos y flujos de valor es la parte de ITIL 4 que aborda la gobernanza, las prácticas de gestión y la mejora continua en el contexto de la entrega de servicios. Esta dimensión se enfoca en cómo se diseñan, entregan y mejoran los procesos y flujos de trabajo para generar valor para el negocio y los clientes.\n\nLas otras opciones no son las mejores respuestas:\n\nEl sistema de valor del servicio: Si bien el sistema de valor del servicio es parte del enfoque de ITIL 4 y se centra en la creación, entrega y captura de valor, no abarca directamente el gobierno, las prácticas de gestión y la mejora continua en la misma medida que la dimensión de procesos y flujos de valor.\n\nLa actividad \"entregar y soportar\" de la cadena de valor: Si bien la actividad \"entregar y soportar\" es parte de la cadena de valor de ITIL 4 y contribuye a la entrega de servicios, no representa directamente la gobernanza, las prácticas de gestión y la mejora continua en su totalidad.\n\nEl principio guía \"enfocarse en el valor\": Si bien el principio guía \"enfocarse en el valor\" es esencial en ITIL 4 y se aplica a todas las dimensiones y actividades, no abarca directamente el gobierno, las prácticas de gestión y la mejora continua de la misma manera que la dimensión de procesos y flujos de valor.\n\nPor lo tanto, la opción D, la dimensión de procesos y flujos de valor, es la respuesta más adecuada, ya que representa específicamente la relación entre el gobierno, las prácticas de gestión y la mejora continua en el contexto de la entrega de servicios."
+    },
+    {
+      "position": 11,
+      "statement": "¿Qué práctica involucra la gestión de los inconvenientes que ya se han analizado pero que no se han resuelto?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Control de cambios.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Gestión de solicitudes de servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gestión de problemas.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Gestión de niveles de servicio.",
+          "is_correct": false
+        }
+      ],
+      "justification": "La gestión de problemas es la práctica que se ocupa de la gestión de los problemas que ya han sido analizados pero que aún no se han resuelto por completo. Los problemas son las causas subyacentes de los incidentes recurrentes o graves, y la gestión de problemas se encarga de identificar, registrar, analizar y gestionar estos problemas para minimizar su impacto en los servicios de TI.\n\nEl control de cambios (opción A) se centra en la gestión de los cambios planificados en el entorno de TI.\n\nLa gestión de solicitudes de servicio (opción B) se ocupa de gestionar las solicitudes de servicio realizadas por los usuarios, pero no está directamente relacionada con la gestión de problemas.\n\nLa gestión de niveles de servicio (opción D) se ocupa de establecer, monitorear y cumplir los niveles de servicio acordados con los clientes, pero no se enfoca en la gestión de problemas específicamente.\n\nPor lo tanto, la opción C, la gestión de problemas, es la respuesta más adecuada para la práctica que involucra la gestión de los inconvenientes que ya se han analizado pero que no se han resuelto.\n\nIdentifique las palabras que faltan en el siguiente enunciado. El propósito de la práctica de gestión de proveedores es asegurar que los proveedores de la organización y [¿] se gestionan adecuadamente para posibilitar el suministro de productos y servicios de calidad sin interrupciones.\n\nSus costos.\n\nSus usuarios.\n\nSu valor.\n\nSu desempeño."
+    },
+    {
+      "position": 12,
+      "statement": "¿Cuál de las siguientes opciones se debería considerar como parte de la dimensión de socios y proveedores?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "El nivel de integración y formalidad involucradas en las relaciones entre las organizaciones.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Las actividades, los flujos de trabajo, los controles y los procedimientos necesarios para alcanzar los objetivos acordados.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La información creada, gestionada y usada durante la provisión y el consumo de servicios.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Las habilidades y competencias requeridas de los equipos y los miembros individuales de la organización.",
+          "is_correct": false
+        }
+      ],
+      "justification": "La dimensión de socios y proveedores se refiere a la gestión de las relaciones y colaboración con los proveedores externos. El nivel de integración y formalidad en estas relaciones es un aspecto importante a considerar dentro de esta dimensión. Implica establecer acuerdos y formas de trabajo conjuntas, así como definir los términos y condiciones de la relación con los proveedores. Por lo tanto, la opción A es la respuesta correcta.\n\nIdentifique las palabras que falten en el siguiente enunciado. Un usuario es [¿] que usa los servicios.\n\nUna organización.\n\nUna persona.\n\nUn equipo.\n\nUn proveedor."
+    },
+    {
+      "position": 13,
+      "statement": "¿Cuál es una actividad clave que se realiza en el paso “¿Ya llegamos?” del modelo de mejora continua?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Definir objetivos medibles.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Realizar evaluaciones de línea base.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Ejecutar acciones de mejora.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Evaluar mediciones y métricas.",
+          "is_correct": true
+        }
+      ],
+      "justification": "En el paso \"¿Ya llegamos?\" del modelo de mejora continua en ITIL 4, se realiza la evaluación de las mediciones y métricas que se han recopilado durante el proceso de mejora. Esta evaluación permite analizar los resultados obtenidos y determinar si se ha logrado el objetivo de mejora establecido. Es importante revisar las mediciones y métricas para verificar el impacto de las acciones de mejora implementadas y asegurar que se han alcanzado los resultados deseados."
+    },
+    {
+      "position": 14,
+      "statement": "¿Cuál de las siguientes actividades forma parte de la práctica de mejora continua?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Identificar y registrar oportunidades.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Entregar un involucramiento táctico y operacional con los clientes.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Completar y mantener el registro de activos.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ofrecer una ruta clara para que los usuarios reporten problemáticas y realicen consultas y solicitudes.",
+          "is_correct": false
+        }
+      ],
+      "justification": "La práctica de mejora continua en ITIL 4 implica identificar y registrar oportunidades de mejora en los servicios y procesos de la organización. Esto se logra mediante la recopilación de información, análisis de datos, retroalimentación de clientes y usuarios, y la detección de áreas donde se pueden realizar mejoras. Identificar y registrar oportunidades es fundamental para impulsar la mejora continua y asegurar que se realicen acciones efectivas para optimizar los servicios y alcanzar los objetivos establecidos."
+    },
+    {
+      "position": 15,
+      "statement": "¿Cuál es el propósito de la práctica de gestión de incidentes?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Minimizar el impacto negativo de incidentes mediante la restauración de la operación normal del servicio lo más rápido posible.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Registrar peticiones para resolver incidentes y solicitudes de servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Reducir la probabilidad y el impacto de incidentes a través de la identificación de causas actuales y potenciales de incidentes.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Respaldar la calidad acordada del servicio mediante la gestión eficaz de todas las solicitudes de servicio acordadas iniciadas.",
+          "is_correct": false
+        }
+      ],
+      "justification": "La gestión de incidentes se enfoca en resolver incidentes de manera eficiente y efectiva, con el objetivo de minimizar cualquier interrupción en la operación del servicio y restaurar la normalidad lo más pronto posible. Esta práctica implica la recepción, registro, clasificación, priorización, diagnóstico y resolución de incidentes, asegurando que se sigan los procedimientos y escalas adecuadas para lograr una solución rápida. El propósito principal es garantizar que los incidentes se manejen de manera adecuada y oportuna para minimizar su impacto negativo en los usuarios y en la continuidad de los servicios."
+    },
+    {
+      "position": 16,
+      "statement": "¿Qué afirmación acerca de los pasos para satisfacer una solicitud de servicio es CORRECTA?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Deberían ser complejos y detallados.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Deberían ser conocidos y verificados.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Deberían incluir el manejo de incidentes.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Deberían ser breves y sencillos.",
+          "is_correct": true
+        }
+      ],
+      "justification": "Los pasos para satisfacer una solicitud de servicio deben ser lo más breves y sencillos posibles. El objetivo es proporcionar una respuesta rápida y eficiente a la solicitud del usuario, evitando complicaciones innecesarias. Los pasos deben estar bien definidos y ser fáciles de seguir, lo que facilita su ejecución y reduce el tiempo de respuesta. La simplicidad en los pasos también ayuda a minimizar la posibilidad de errores y garantiza una experiencia positiva para el usuario."
+    },
+    {
+      "position": 17,
+      "statement": "¿Qué práctica coordina la clasificación, la propiedad y la comunicación de las solicitudes de servicios e incidentes?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Gestión de proveedores.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Mesa de servicios.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Gestión de problemas.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Gestión de relaciones.",
+          "is_correct": false
+        }
+      ],
+      "justification": "La mesa de servicios es responsable de recibir, registrar, clasificar y gestionar las solicitudes de servicios e incidentes de los usuarios. Esta práctica se encarga de coordinar la comunicación entre los usuarios y los equipos de soporte, asignar la propiedad de las solicitudes/incidentes a los grupos adecuados y garantizar que se sigan los procesos adecuados para su resolución. La mesa de servicios desempeña un papel clave en la gestión eficiente de las solicitudes de servicios e incidentes, asegurando una atención oportuna y efectiva a los usuarios."
+    },
+    {
+      "position": 18,
+      "statement": "¿Cuál es el propósito de la práctica de gestión de la implementación?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Asegurar que los servicios logren el desempeño acordado y esperado.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Hacer que los servicios nuevos o modificados estén disponibles para su uso.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Pasar los componentes nuevos o modificados a entornos de producción.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Definir con claridad los objetivos de desempeño comercial de los servicios.",
+          "is_correct": false
+        }
+      ],
+      "justification": "Esta práctica se enfoca en la planificación, coordinación y control de la implementación y el despliegue de servicios nuevos o modificados en el entorno de producción. Su objetivo principal es garantizar que los servicios estén disponibles para su uso de manera efectiva y eficiente, asegurando que se cumplan los requisitos acordados y se minimicen los impactos negativos en la operación.\n\nLa Gestión de la Implementación y Despliegue abarca actividades como la planificación y programación de las implementaciones, la coordinación de los cambios y la comunicación con las partes interesadas involucradas. Además, se encarga de gestionar los riesgos y los problemas asociados con la implementación, así como de realizar las pruebas necesarias para asegurar la calidad del servicio antes de su puesta en producción."
+    },
+    {
+      "position": 19,
+      "statement": "¿Cuál de las siguientes opciones es un propósito de la gestión de liberaciones?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Proteger la información de la organización.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Gestionar las solicitudes de servicio iniciadas por el usuario.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Hacer que tanto servicios nuevos como modificados estén disponibles para su uso.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Mover el hardware y el software a los entornos de producción.",
+          "is_correct": false
+        }
+      ],
+      "justification": "La gestión de liberaciones se encarga de planificar, coordinar y controlar el movimiento de servicios nuevos o modificados desde el entorno de desarrollo hacia el entorno de producción. Su propósito principal es asegurar que los servicios estén disponibles y listos para su uso por parte de los usuarios.\n\nEsta práctica implica actividades como la planificación de las liberaciones, la preparación del ambiente de producción, el control de versiones y cambios, la ejecución de las pruebas necesarias, la coordinación con los equipos involucrados y la comunicación de los cambios a los usuarios.\n\nAl asegurarse de que los servicios estén disponibles de manera controlada y segura, la gestión de liberaciones ayuda a minimizar los riesgos y los impactos negativos en la operación del servicio, al tiempo que garantiza una transición suave y exitosa de los cambios en el entorno de producción."
+    },
+    {
+      "position": 20,
+      "statement": "¿Qué práctica tiene una fuerte influencia en la experiencia del usuario y la percepción del proveedor de servicios?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Mesa de servicios.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Control de cambios.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gestión de niveles de servicio.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Gestión de proveedores.",
+          "is_correct": false
+        }
+      ],
+      "justification": "La gestión de niveles de servicio se centra en la definición, el acuerdo y el monitoreo de los niveles de servicio entre el proveedor de servicios y los clientes o usuarios. Su objetivo principal es asegurar que los servicios proporcionados cumplan con los requisitos y expectativas acordados.\n\nAl establecer acuerdos de niveles de servicio (SLAs) claros y medibles, la gestión de niveles de servicio tiene un impacto directo en la experiencia del usuario, ya que define las metas y los estándares de desempeño que se esperan del proveedor de servicios. Esto influye en la percepción del proveedor de servicios, ya que su capacidad para cumplir y superar estos niveles de servicio puede mejorar o afectar la confianza y la satisfacción del usuario.\n\nLa gestión de niveles de servicio implica la negociación de acuerdos de niveles de servicio, el seguimiento y la medición del desempeño, el reporte de los resultados a las partes interesadas y la gestión de cualquier desviación o incumplimiento de los niveles de servicio acordados."
+    },
+    {
+      "position": 21,
+      "statement": "¿Qué práctica tiene un propósito que incluye observar un servicio para reportar determinados cambios de estado identificados como eventos?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Gestión de seguridad de la información.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Monitoreo y gestión de eventos.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Gestión de incidentes.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Control de cambios.",
+          "is_correct": false
+        }
+      ],
+      "justification": "La práctica de Monitoreo y gestión de eventos tiene como propósito principal observar un servicio y detectar y reportar cambios de estado identificados como eventos. Estos eventos pueden ser tanto positivos como negativos, y su detección temprana es crucial para tomar acciones proactivas y minimizar posibles interrupciones o impactos en el servicio.\n\nEl monitoreo y la gestión de eventos implican la recolección, el registro, el análisis y la notificación de eventos relevantes para el servicio. Esto se logra mediante el uso de herramientas y sistemas de monitoreo que recopilan datos en tiempo real y generan alertas cuando se identifica un evento significativo.\n\nAl monitorear y gestionar eventos, se puede obtener una visión clara del estado del servicio, identificar problemas o riesgos potenciales y tomar medidas correctivas o preventivas de manera oportuna. Esto contribuye a mantener la disponibilidad, el rendimiento y la calidad del servicio, y a brindar una experiencia satisfactoria a los usuarios."
+    },
+    {
+      "position": 22,
+      "statement": "Por lo general, ¿qué se necesita para asignar incidentes complejos a grupos de soporte?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Una herramienta de autoayuda.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "La prioridad del incidente.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un calendario de cambios.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La categoría del incidente.",
+          "is_correct": true
+        }
+      ],
+      "justification": "Para asignar incidentes complejos a grupos de soporte, es necesario considerar la categoría del incidente. La categoría del incidente ayuda a clasificar y organizar los incidentes de acuerdo con su naturaleza y características específicas. Al tener una categorización adecuada, se puede determinar qué grupo de soporte o equipo especializado es el más adecuado para resolver el incidente de manera eficiente y efectiva.\n\nCada grupo de soporte generalmente tiene experiencia y conocimientos especializados en ciertos tipos de incidentes. Por lo tanto, al asignar un incidente complejo, se busca asegurar que sea manejado por el grupo de soporte adecuado que tenga los recursos, habilidades y conocimientos necesarios para resolver el incidente de manera óptima.\n\nLa prioridad del incidente también puede ser considerada al asignar incidentes, ya que ayuda a establecer la urgencia y el impacto del incidente. Sin embargo, en el contexto de la pregunta, la categoría del incidente es el factor principal que se utiliza para asignar incidentes complejos a grupos de soporte."
+    },
+    {
+      "position": 23,
+      "statement": "En cuanto al flujo de trabajo, ¿cuál de las siguientes opciones es adecuada para una solicitud de servicio nueva?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Usar un solo flujo de trabajo para todos los tipos de solicitudes de servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Usar diferentes flujos de trabajo para cada tipo de solicitud de servicio.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Evitar los flujos de trabajos en las solicitudes de servicio simples.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Aprovechar los flujos de trabajo existentes cuando sea posible.",
+          "is_correct": false
+        }
+      ],
+      "justification": "Cuando se trata de una solicitud de servicio nueva, es recomendable utilizar diferentes flujos de trabajo para cada tipo de solicitud. Esto se debe a que diferentes tipos de solicitudes de servicio pueden requerir pasos y procesos específicos que sean relevantes para ese tipo en particular. Al tener flujos de trabajo separados, se puede asegurar una mayor eficiencia y consistencia en el manejo de las solicitudes, ya que se adaptan a las necesidades y requisitos específicos de cada tipo.\n\nPor ejemplo, si una organización tiene diferentes tipos de solicitudes de servicio, como solicitudes de acceso a sistemas, solicitudes de software, solicitudes de hardware, etc., cada tipo de solicitud puede tener su propio flujo de trabajo. Esto permitirá que se sigan los pasos y las actividades adecuadas para cada tipo de solicitud, asegurando un enfoque más estructurado y eficaz en el procesamiento de las solicitudes de servicio.\n\nUsar un solo flujo de trabajo para todos los tipos de solicitudes (opción A) puede resultar en una falta de personalización y adaptabilidad a las necesidades específicas de cada tipo de solicitud, lo que puede llevar a una menor eficiencia y calidad en el manejo de las solicitudes.\n\nEvitar los flujos de trabajo en las solicitudes de servicio simples (opción C) podría ser una opción válida si las solicitudes simples no requieren pasos o procesos adicionales más allá de los básicos y directos. Sin embargo, en general, es beneficioso tener flujos de trabajo definidos incluso para las solicitudes más simples para asegurar un seguimiento adecuado y una consistencia en la forma en que se manejan.\n\nAprovechar los flujos de trabajo existentes cuando sea posible (opción D) es una buena práctica, ya que permite reutilizar flujos de trabajo que han sido previamente diseñados y probados. Esto puede ahorrar tiempo y esfuerzo en la creación de nuevos flujos de trabajo y garantizar la consistencia en la forma en que se manejan las solicitudes de servicio. Sin embargo, en el caso de solicitudes nuevas que requieren procesos únicos, es preferible utilizar flujos de trabajo específicos para garantizar una adecuada gestión y seguimiento."
+    },
+    {
+      "position": 24,
+      "statement": "¿Cuál de las siguientes opciones es una recomendación del principio guía “pensar y trabajar holísticamente”?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Llevar a cabo una revisión de las prácticas de gestión de servicios existentes y decidir cuáles conservar y cuáles descartar.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Revisar cómo una iniciativa de mejora se puede organizar en secciones más pequeñas y manejables que se puedan completar de manera oportuna.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Revisar las prácticas de gestión de servicios y eliminar cualquier complejidad innecesaria.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Usar las cuatro dimensiones de la gestión de servicios para asegurar la coordinación de todos los aspectos de una iniciativa de mejora.",
+          "is_correct": true
+        }
+      ],
+      "justification": "El principio guía \"pensar y trabajar holísticamente\" en ITIL 4 enfatiza la importancia de considerar y abordar todos los aspectos relevantes de la gestión de servicios de manera integral. Esto implica tener en cuenta las cuatro dimensiones de la gestión de servicios, que son:\n\nOrganizaciones y personas: Reconocer que el éxito de la gestión de servicios depende tanto de las personas como de las estructuras organizativas, fomentando la colaboración y la participación de todas las partes interesadas.\n\nInformación y tecnología: Utilizar la tecnología de la información de manera efectiva para habilitar y mejorar los servicios, así como garantizar la disponibilidad de información precisa y relevante.\n\nSocios y proveedores: Establecer relaciones sólidas y colaborativas con proveedores externos y socios comerciales para asegurar la entrega efectiva de servicios de calidad.\n\nValor streams y procesos: Considerar los flujos de valor y los procesos involucrados en la entrega y soporte de servicios, asegurando una visión holística de principio a fin.\n\nUsar las cuatro dimensiones de la gestión de servicios garantiza una coordinación efectiva y una visión completa de todos los aspectos relacionados con una iniciativa de mejora. Esta enfoque holístico permite comprender mejor el impacto de los cambios propuestos, identificar posibles interdependencias y asegurar la alineación con los objetivos y valores de la organización."
+    },
+    {
+      "position": 25,
+      "statement": "¿Qué principio guía recomienda usar el número mínimo de pasos necesarios para alcanzar un objetivo?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Progresar iterativamente con retroalimentación.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Enfocarse en el valor.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Pensar y trabajar holísticamente.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Mantenerlo sencillo y práctico.",
+          "is_correct": true
+        }
+      ],
+      "justification": "El principio guía \"mantenerlo sencillo y práctico\" en ITIL 4 se refiere a la recomendación de simplificar los procesos y actividades de gestión de servicios, evitando la complejidad innecesaria. Este principio promueve el uso del número mínimo de pasos necesarios para lograr un objetivo, eliminando cualquier exceso o burocracia que pueda dificultar la eficiencia y efectividad de la gestión de servicios.\n\nAl mantener los procesos sencillos y prácticos, se facilita la comprensión y adopción de las prácticas de gestión de servicios por parte de los involucrados. Esto reduce la posibilidad de errores, retrasos y confusiones, y permite una ejecución más ágil y eficaz de las actividades de gestión de servicios."
+    },
+    {
+      "position": 26,
+      "statement": "En resumen, el principio guía \"mantenerlo sencillo y práctico\" busca simplificar y optimizar los procesos de gestión de servicios, utilizando el número mínimo de pasos necesarios para alcanzar los objetivos, lo cual contribuye a una gestión más eficiente y efectiva de los servicios. ¿Qué afirmación acerca de las mesas de servicios es CORRECTA?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "La mesa de servicios debería trabajar en estrecha colaboración con los equipos de soporte y desarrollo.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "La mesa de servicios debería depender de los portales de autoservicio, en lugar del escalamiento a los equipos de soporte.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La mesa de servicios debería permanecer aislada de los equipos de soporte técnico.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La mesa de servicios debería escalar todas las problemáticas técnicas a los equipos de soporte y desarrollo.",
+          "is_correct": false
+        }
+      ],
+      "justification": "En ITIL 4, la mesa de servicios es un punto de contacto centralizado entre los usuarios y los equipos de soporte técnico. Su propósito principal es registrar, clasificar y gestionar las solicitudes de servicio y los incidentes reportados por los usuarios.\n\nLa mesa de servicios debe trabajar en estrecha colaboración con los equipos de soporte y desarrollo para garantizar una comunicación fluida y eficiente. Esto implica compartir información relevante, coordinar esfuerzos y colaborar en la resolución de problemas. Trabajar en conjunto permite una mejor comprensión de las necesidades y requerimientos de los usuarios, así como una respuesta más rápida y efectiva a las solicitudes y incidentes.\n\nLa opción B, que indica que la mesa de servicios debería depender exclusivamente de los portales de autoservicio, no es correcta, ya que la mesa de servicios desempeña un papel crucial en el manejo de solicitudes y incidentes que requieren intervención y soporte directo por parte de los equipos técnicos.\n\nLa opción C, que sugiere que la mesa de servicios debería permanecer aislada de los equipos de soporte técnico, no es acertada, ya que la colaboración y el trabajo en equipo entre la mesa de servicios y los equipos de soporte son esenciales para brindar un servicio de calidad a los usuarios.\n\nLa opción D, que indica que la mesa de servicios debería escalar todas las problemáticas técnicas a los equipos de soporte y desarrollo, no es precisa, ya que la mesa de servicios está capacitada para resolver y gestionar ciertos incidentes y solicitudes por sí misma, sin necesidad de escalarlos en todos los casos.\n\nEn resumen, la afirmación correcta es que la mesa de servicios debería trabajar en estrecha colaboración con los equipos de soporte y desarrollo, lo cual asegura una comunicación efectiva y una mejor gestión de las solicitudes y incidentes."
+    },
+    {
+      "position": 27,
+      "statement": "¿Cuáles son dos prácticas que usan soluciones temporales?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Control de cambios y mejora continua.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Control de cambios y gestión de problemas.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Gestión de problemas y gestión de incidentes.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Gestión de incidentes y mejora continua",
+          "is_correct": false
+        }
+      ],
+      "justification": "Tanto la gestión de problemas como la gestión de incidentes pueden hacer uso de soluciones temporales para mitigar los impactos y restablecer los servicios de manera rápida y eficiente. Estas soluciones temporales se implementan mientras se investigan las causas subyacentes y se busca una solución permanente.\n\nEn la gestión de problemas, una solución temporal se utiliza para evitar que un problema conocido cause incidentes recurrentes. Esta solución temporal puede ser aplicada para minimizar el impacto y restaurar el servicio afectado hasta que se implemente una solución definitiva.\n\nEn la gestión de incidentes, una solución temporal se implementa para restablecer rápidamente el servicio y minimizar el impacto en los usuarios. Esta solución temporal permite mantener la operatividad del servicio mientras se investiga y se trabaja en una solución permanente.\n\nEl control de cambios y la mejora continua, mencionados en las otras opciones, no están directamente asociados al uso de soluciones temporales como parte de su práctica.\n\nTop of Form"
+    },
+    {
+      "position": 28,
+      "statement": "¿Qué dimensión incluye actividades y flujos de trabajo?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Organizaciones y personas",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Información y tecnología.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Socios y proveedores.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Procesos y flujos de valor.",
+          "is_correct": true
+        }
+      ],
+      "justification": "La dimensión de \"Procesos y flujos de valor\" en ITIL 4 se centra en la identificación y gestión de los procesos y flujos de trabajo necesarios para crear, entregar y respaldar los servicios de una organización. Esta dimensión abarca la definición y mejora de los procesos, la identificación de los flujos de trabajo necesarios para lograr los resultados deseados, y la integración de los procesos y flujos de trabajo en la cadena de valor del servicio.\n\nIncluye actividades como la definición de roles y responsabilidades, el diseño de los procesos, la identificación y optimización de los flujos de trabajo, y la implementación de prácticas de gestión de procesos para asegurar la eficiencia y efectividad en la entrega de servicios.\n\nLas otras dimensiones mencionadas (Organizaciones y personas, Información y tecnología, Socios y proveedores) también son importantes en ITIL 4, pero no se centran específicamente en las actividades y flujos de trabajo como lo hace la dimensión de Procesos y flujos de valor."
+    },
+    {
+      "position": 29,
+      "statement": "¿Cuál de las siguientes opciones es una recomendación del principio guía “enfocarse en el valor”?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Que el principio de “enfocarse en el valor” sea responsabilidad de la gestión.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Enfocarse primero en el valor de proyectos nuevos y significativos.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Enfocarse primero en el valor del proveedor de servicios.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Enfocarse en el valor en cada paso de la mejora.",
+          "is_correct": true
+        }
+      ],
+      "justification": "El principio guía \"enfocarse en el valor\" en ITIL 4 establece que se debe dar prioridad y centrarse en el valor para el cliente en cada actividad y paso de la mejora. Esto implica asegurarse de que todas las acciones y decisiones estén orientadas a entregar valor al cliente y cumplir con sus necesidades y expectativas.\n\nEn lugar de enfocarse únicamente en el proveedor de servicios o en proyectos nuevos, la recomendación es adoptar una perspectiva holística y considerar el valor en todas las etapas de la mejora continua. Esto implica evaluar constantemente si las acciones y actividades realizadas están generando valor para el cliente y ajustarlas en consecuencia para maximizar ese valor.\n\nEl enfoque en el valor es esencial para garantizar que las mejoras se alineen con las necesidades del cliente y generen resultados positivos tanto para el proveedor de servicios como para los consumidores de servicios."
+    },
+    {
+      "position": 30,
+      "statement": "¿Qué se define como “una interrupción no planificada o una reducción en la calidad del servicio”?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Un incidente.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Un problema.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Un cambio.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Un evento.",
+          "is_correct": false
+        }
+      ],
+      "justification": "En ITIL 4, se define un incidente como una interrupción no planificada o una reducción en la calidad del servicio. Un incidente es un evento que ocurre y que causa una interrupción o afectación en la operación normal de un servicio. Puede ser causado por errores en los sistemas, fallas en la infraestructura, acciones no autorizadas, entre otros factores.\n\nLa gestión de incidentes es una práctica clave en ITIL 4 que se encarga de restablecer la operación normal del servicio lo más rápido posible y minimizar su impacto negativo en los usuarios. Se trata de registrar, clasificar, investigar y resolver los incidentes de manera eficiente, garantizando la continuidad del servicio y la satisfacción del cliente."
+    },
+    {
+      "position": 31,
+      "statement": "¿Cuál es el resultado esperado de usar una cadena de valor del servicio?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Los flujos de valor del servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El involucramiento del cliente.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "La creación de valor.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "La aplicación de prácticas.",
+          "is_correct": false
+        }
+      ],
+      "justification": "El resultado esperado de utilizar una cadena de valor del servicio en ITIL 4 es la creación de valor. La cadena de valor del servicio es un enfoque holístico que muestra las actividades y componentes principales necesarios para proporcionar un servicio de calidad. A través de esta cadena de valor, se busca identificar las actividades que generan valor para el cliente y que contribuyen al logro de los objetivos del negocio.\n\nAl utilizar la cadena de valor del servicio, las organizaciones pueden analizar y optimizar sus procesos, identificar áreas de mejora, eliminar actividades que no generen valor y enfocarse en aquellas que sí lo hacen. Esto permite ofrecer servicios más eficientes y efectivos, mejorando la experiencia del cliente y aumentando la satisfacción.\n\nPor lo tanto, la creación de valor es el resultado esperado al utilizar una cadena de valor del servicio en ITIL 4."
+    },
+    {
+      "position": 32,
+      "statement": "¿Qué afirmación acerca de las autoridades de cambios es CORRECTA?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Las autoridades de cambios solo se requieren para autorizar los cambios de emergencia.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Las autoridades de cambios se asignan al momento del despliegue de cada cambio.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Las autoridades de cambios solo se requieren para autorizar los cambios normales.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Se asigna una autoridad de cambios para cada tipo de cambio y modelo de cambios.",
+          "is_correct": true
+        }
+      ],
+      "justification": "En ITIL 4, las autoridades de cambios desempeñan un papel clave en la gestión de cambios. Son responsables de revisar y aprobar los cambios propuestos antes de que se implementen en el entorno de producción. Cada tipo de cambio y modelo de cambios puede tener requisitos y consideraciones específicas, por lo tanto, se asigna una autoridad de cambios correspondiente para cada uno de ellos.\n\nLas autoridades de cambios evalúan la viabilidad, el impacto y los riesgos asociados con cada cambio propuesto. Toman decisiones informadas y autorizan o rechazan los cambios con base en criterios establecidos, como las políticas y los acuerdos de nivel de servicio. Su función es garantizar que los cambios sean gestionados de manera adecuada y que no causen interrupciones o problemas significativos en los servicios.\n\nEn resumen, las autoridades de cambios se asignan para cada tipo de cambio y modelo de cambios, asegurando que se realice una evaluación adecuada y una toma de decisiones informada antes de la implementación de los cambios."
+    },
+    {
+      "position": 33,
+      "statement": "¿Qué práctica se usa para confirmar los requerimientos del cliente para los servicios?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Gestión de solicitudes de servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Gestión de niveles de servicio.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Mesa de servicios.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Gestión de incidentes.",
+          "is_correct": false
+        }
+      ],
+      "justification": "La práctica que se utiliza para confirmar los requerimientos del cliente para los servicios es la Gestión de Niveles de Servicio.\n\nLa Gestión de Niveles de Servicio en ITIL 4 se centra en establecer y mantener acuerdos claros entre el proveedor de servicios y los clientes en relación con los servicios prestados. Su propósito es asegurarse de que los servicios cumplan con las expectativas y necesidades de los clientes.\n\nDentro de esta práctica, se definen y acuerdan los niveles de servicio que deben cumplirse, incluyendo aspectos como el rendimiento, la disponibilidad y la capacidad de los servicios. Además, se establecen métricas y se realizan mediciones para evaluar y monitorear el cumplimiento de los niveles de servicio acordados.\n\nLa Gestión de Niveles de Servicio también incluye la revisión periódica de los requisitos y expectativas del cliente, así como la comunicación efectiva entre el proveedor de servicios y los clientes para confirmar que los servicios están alineados con sus necesidades. Esto implica obtener una comprensión clara de los requerimientos del cliente y verificar que los servicios proporcionados los cumplan.\n\nPor lo tanto, la Gestión de Niveles de Servicio es la práctica más adecuada para confirmar los requerimientos del cliente para los servicios, ya que su enfoque está en establecer acuerdos y métricas concretas para garantizar la satisfacción del cliente y la entrega de servicios de calidad."
+    },
+    {
+      "position": 34,
+      "statement": "¿Qué afirmación de los costos es CORRECTA?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Los costos que asume el consumidor son costos de utilidad del servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Los costos que no asume el consumidor son parte de la propuesta de valor.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los costos que asume el consumidor son costos de la garantía del servicio.",
+          "is_correct": true
+        },
+        {
+          "letter": "D",
+          "text": "Los costos que no asume el consumidor son parte del consumo de servicios.",
+          "is_correct": false
+        }
+      ],
+      "justification": "En el contexto de ITIL 4, la garantía del servicio se refiere a la promesa de cumplir con ciertos estándares y niveles de calidad en la entrega de los servicios. Los costos asociados a la garantía del servicio son aquellos que asume el consumidor como parte de la experiencia de recibir y utilizar los servicios.\n\nEstos costos pueden incluir, por ejemplo, el tiempo y los recursos que el consumidor invierte en utilizar y beneficiarse del servicio, los gastos relacionados con la adopción y configuración de los servicios, así como los costos de capacitación y soporte para utilizarlos de manera efectiva.\n\nPor otro lado, los costos que no asume el consumidor están relacionados con la provisión y entrega del servicio por parte del proveedor. Estos costos forman parte de la propuesta de valor del proveedor y pueden incluir, por ejemplo, los gastos operativos, el mantenimiento de infraestructuras, el desarrollo y mejora de los servicios, entre otros."
+    },
+    {
+      "position": 35,
+      "statement": "En resumen, los costos que asume el consumidor están asociados a la garantía del servicio, mientras que los costos que no asume el consumidor forman parte de la propuesta de valor del proveedor. ¿Qué es definido como una causa, o causa potencial, de uno o más incidentes?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Cambio.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Evento.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Error conocido.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Problema.",
+          "is_correct": true
+        }
+      ],
+      "justification": "En ITIL 4, un problema se define como una causa o una posible causa de uno o más incidentes. Un problema es una situación subyacente que genera la aparición de incidentes recurrentes o graves. Se busca identificar y resolver los problemas para evitar la recurrencia de incidentes y minimizar su impacto en los servicios.\n\nUn error conocido, por otro lado, se refiere a una causa identificada de uno o más incidentes que ya tiene una solución conocida. Los errores conocidos son documentados y se utilizan para acelerar el proceso de resolución de incidentes.\n\nEn resumen, un problema se refiere a una causa o causa potencial de incidentes, mientras que un error conocido es una causa identificada de incidentes con una solución conocida."
+    },
+    {
+      "position": 36,
+      "statement": "¿Cuál es un propósito de la actividad “involucrar” de la cadena de valor?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Cumplir con las expectativas de calidad, costos y tiempo de salida al mercado.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "Proporcionar transparencia y buenas relaciones.",
+          "is_correct": true
+        },
+        {
+          "letter": "C",
+          "text": "Asegurar la mejora continua de los servicios.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Asegurar que se comprenda la visión de la organización.",
+          "is_correct": false
+        }
+      ],
+      "justification": "En la cadena de valor del servicio, la actividad \"involucrar\" tiene como propósito principal establecer y mantener relaciones sólidas y colaborativas con los clientes, usuarios y otras partes interesadas. Esta actividad busca asegurar la transparencia en la comunicación, la gestión efectiva de las expectativas y la construcción de relaciones de confianza.\n\nAl involucrar a las partes interesadas de manera activa y continua, se promueve una mayor comprensión de las necesidades y requisitos, lo que permite ofrecer servicios que satisfagan sus expectativas. Además, se fomenta una comunicación abierta y efectiva, lo que facilita la resolución de problemas, la toma de decisiones y la colaboración en la mejora continua de los servicios.\n\nEn resumen, la actividad \"involucrar\" de la cadena de valor del servicio tiene como objetivo principal proporcionar transparencia y establecer buenas relaciones con las partes interesadas para asegurar una colaboración efectiva y el cumplimiento de sus expectativas."
+    },
+    {
+      "position": 37,
+      "statement": "¿Dónde se definen todos los detalles de los resultados de desempeño requeridos de un servicio?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "Acuerdos de niveles de servicio.",
+          "is_correct": true
+        },
+        {
+          "letter": "B",
+          "text": "Solicitudes de servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Componentes de servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "Ofertas de servicio.",
+          "is_correct": false
+        }
+      ],
+      "justification": "En los Acuerdos de Niveles de Servicio (SLA, por sus siglas en inglés), se definen todos los detalles de los resultados de desempeño requeridos de un servicio. Los SLA son acuerdos formales entre el proveedor de servicios y el cliente o usuario, en los cuales se establecen los niveles de servicio esperados, los indicadores clave de rendimiento (KPIs) y los objetivos de desempeño.\n\nLos SLA describen de manera específica y detallada los resultados que se deben lograr en términos de calidad, tiempo de respuesta, disponibilidad, capacidad, seguridad u otros aspectos relevantes del servicio. Estos acuerdos definen las expectativas del cliente y proporcionan un marco de referencia para evaluar y gestionar el desempeño del servicio.\n\nEs importante destacar que los SLA deben ser acordados y acordados por ambas partes, y su seguimiento y cumplimiento son fundamentales para garantizar la satisfacción del cliente y la calidad del servicio proporcionado."
+    },
+    {
+      "position": 38,
+      "statement": "¿Cuál es la MEJOR descripción del valor de un servicio para un cliente?",
+      "answers": [
+        {
+          "letter": "A",
+          "text": "La cantidad de dinero que el cliente paga por usar el servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "B",
+          "text": "El retorno financiero que el cliente obtiene por usar el servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "C",
+          "text": "Los resultados que el cliente percibe de uso del servicio.",
+          "is_correct": false
+        },
+        {
+          "letter": "D",
+          "text": "La percepción del cliente sobre los beneficios de usar el servicio.",
+          "is_correct": true
+        }
+      ],
+      "justification": "El valor de un servicio para un cliente se basa en la percepción del cliente sobre los beneficios que obtiene al utilizar ese servicio. Es subjetivo y puede variar de un cliente a otro, ya que está influenciado por las necesidades, expectativas y preferencias individuales de cada cliente.\n\nEl valor de un servicio no se limita únicamente al aspecto financiero, como la cantidad de dinero que el cliente paga por usar el servicio (opción A) o el retorno financiero que el cliente obtiene por usar el servicio (opción B). Si bien estos factores pueden ser considerados en la evaluación del valor, el enfoque principal se centra en los beneficios percibidos por el cliente.\n\nLa opción C, \"los resultados que el cliente percibe del uso del servicio\", también se acerca a la descripción del valor, pero es más amplia y abarca tanto los resultados tangibles como los intangibles que el cliente experimenta al utilizar el servicio.\n\nEn resumen, la opción D, \"la percepción del cliente sobre los beneficios de usar el servicio\", es la mejor descripción del valor de un servicio para un cliente, ya que refleja la importancia de la perspectiva del cliente y su evaluación subjetiva de los beneficios obtenidos."
+    }
+  ]
+}

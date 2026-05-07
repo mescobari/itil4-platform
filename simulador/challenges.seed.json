@@ -1,0 +1,30 @@
+{
+  "_README": "Pool inicial de challenges Get Code. REEMPLAZA estos 5 placeholders por preguntas REALES cuyas respuestas SOLO se encuentren leyendo el libro KDP. Recomendado: 20-30 entradas. La respuesta se compara normalizada (lowercase, sin acentos, sin puntuación) — usa palabras o frases cortas (1-3 palabras) para tolerar typos sin volverse ambigua. Re-ejecuta `npm run seed:challenges` después de editar este archivo (es idempotente: deduplica por question exacta).",
+  "challenges": [
+    {
+      "question": "¿Cuál es la primera palabra del Prólogo del libro?",
+      "answer": "Bienvenido",
+      "page_ref": "Prólogo, p.iii"
+    },
+    {
+      "question": "Escribe la palabra que aparece en NEGRITA en el primer párrafo del Capítulo 1.",
+      "answer": "valor",
+      "page_ref": "Cap. 1, p.1"
+    },
+    {
+      "question": "¿Cómo se llama la última de las 7 prácticas de gestión que menciona el Capítulo 3?",
+      "answer": "monitoreo",
+      "page_ref": "Cap. 3, p.45"
+    },
+    {
+      "question": "¿En qué número de página comienza el solucionario de preguntas tipo?",
+      "answer": "127",
+      "page_ref": "Tabla de contenidos"
+    },
+    {
+      "question": "¿Cuál es el nombre del autor que firma la introducción?",
+      "answer": "Max Escobari",
+      "page_ref": "Introducción"
+    }
+  ]
+}

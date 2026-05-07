@@ -1,0 +1,64 @@
+# ─── Dependencias ────────────────────────────────────────────────────────────
+node_modules/
+
+# ─── Build output ────────────────────────────────────────────────────────────
+dist/
+dist-ssr/
+build/
+
+# ─── Variables de entorno (NUNCA commitear secretos) ─────────────────────────
+.env
+.env.local
+.env.*.local
+server/.env
+server/.env.local
+
+# Excepción: estos sí se commitean (no traen secretos, solo placeholders y
+# config de build pública)
+!.env.production
+!.env.example
+!server/.env.example
+
+# ─── Logs ────────────────────────────────────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ─── Email previews (artefactos de dev) ──────────────────────────────────────
+server/preview/
+
+# ─── Datos legacy migrados a MySQL (no commitear PII) ────────────────────────
+server/data/
+
+# ─── Archivos fuente del libro (binarios pesados; el JSON sí se commitea) ────
+simulador/*.doc
+simulador/*.docx
+simulador/*.pdf
+
+# ─── Editores ────────────────────────────────────────────────────────────────
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ─── OS ──────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Backups locales (XAMPP / restauraciones) ────────────────────────────────
+*.broken-*
+*.backup-*
+
+# ─── Otros artefactos sueltos ────────────────────────────────────────────────
+*.local
+.tmp/
+.cache/

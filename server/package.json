@@ -1,0 +1,35 @@
+{
+  "name": "itil4-funnel-server",
+  "version": "1.0.0",
+  "description": "Backend for ITIL4 book sales funnel",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:prod": "cross-env NODE_ENV=production node src/index.js",
+    "dev": "nodemon src/index.js",
+    "migrate": "node src/scripts/migrate.js",
+    "migrate:leads": "node src/scripts/migrate-leads.js",
+    "seed:challenges": "node src/scripts/seed-challenges.js",
+    "parse:exam": "node src/scripts/parse-docx.js",
+    "seed:exam": "node src/scripts/seed-exam.js",
+    "codes": "node src/scripts/generate-codes.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.2.0",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.5",
+    "nodemailer": "^6.9.13",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "mammoth": "^1.8.0",
+    "nodemon": "^3.1.0"
+  }
+}
