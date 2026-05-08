@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "prestart": "npm run build",
     "start": "node server/src/index.js",
     "postinstall": "npm --prefix server ci"
   },
