@@ -7,11 +7,12 @@ dist-ssr/
 build/
 
 # ─── Variables de entorno (NUNCA commitear secretos) ─────────────────────────
+# Cubre TODO archivo que empiece con .env, incluyendo .env.hostinger,
+# .env.staging, .env.deploy, etc. No dependas de listas explícitas.
 .env
-.env.local
-.env.*.local
+.env.*
 server/.env
-server/.env.local
+server/.env.*
 
 # Excepción: estos sí se commitean (no traen secretos, solo placeholders y
 # config de build pública)
