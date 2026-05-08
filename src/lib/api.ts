@@ -1,5 +1,13 @@
 // ─── API Client — Frontend → Backend ─────────────────────────────────────────
-const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+// En prod (build de Vite) el frontend y el API son el mismo origen, así que
+// fetch('/api/...') funciona sin URL absoluta. En dev el frontend está en
+// :5173 y el API en :3001, por eso necesitamos URL absoluta.
+//
+// Usamos `import.meta.env.PROD` (boolean inyectado por Vite) en vez de
+// confiar en VITE_API_URL para evitar bugs de "string vacío es falsy".
+// VITE_API_URL queda como escape hatch opcional (staging, etc).
+const API_BASE = import.meta.env.VITE_API_URL
+  ?? (import.meta.env.PROD ? '' : 'http://localhost:3001');
 
 async function request<T>(
   method: string,
